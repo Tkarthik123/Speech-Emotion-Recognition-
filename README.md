@@ -71,22 +71,13 @@ python train_model.py
 Visualize Results: Visualize accuracy, loss, and confusion matrix by running:
 
 python visualize_results.py
-File Structure
-plaintext
-Copy code
-Speech-Emotion-Recognition/
-├── data/                  # Directory for datasets
-├── models/                # Saved models
-├── train_model.py         # Script to train the SER model
-├── predict.py             # Script to make predictions on new audio files
-├── visualize_results.py   # Script to visualize model performance
-├── requirements.txt       # Project dependencies
-└── README.md              # Project documentation
-Dependencies
+
 
 This project requires the following libraries:
 
-**Librosa: **For audio analysis and feature extraction
+**Librosa:** 
+
+For audio analysis and feature extraction
 NumPy & Pandas: For data manipulation
 Scikit-Learn: For machine learning algorithms and evaluation metrics
 TensorFlow/Keras: For deep learning models (CNN, LSTM)
