@@ -2,7 +2,7 @@
 
 **Overview**
 
-The** Speech Emotion Recognition (SER) **project is designed to detect emotions from human speech. By analyzing vocal patterns, this project aims to identify specific emotions such as happiness, sadness, anger, and more. Speech Emotion Recognition has applications in various domains, including customer service, mental health monitoring, and interactive voice assistants, where understanding the speaker's emotional state can enhance the overall experience and response accuracy.
+The **Speech Emotion Recognition (SER)** project is designed to detect emotions from human speech. By analyzing vocal patterns, this project aims to identify specific emotions such as happiness, sadness, anger, and more. Speech Emotion Recognition has applications in various domains, including customer service, mental health monitoring, and interactive voice assistants, where understanding the speaker's emotional state can enhance the overall experience and response accuracy.
 
 **Project Objectives**
 
