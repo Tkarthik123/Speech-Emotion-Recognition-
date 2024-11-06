@@ -61,7 +61,7 @@ cd Speech-Emotion-Recognition
 Install required libraries: Make sure you have Python 3.6+ and install the necessary libraries:
 pip install -r requirements.txt
 
-**Download Dataset: **
+**Download Dataset:**
 
 Place the audio dataset in the data/ directory. Ensure each file is labeled with its corresponding emotion.
 
